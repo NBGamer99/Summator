@@ -1,14 +1,15 @@
 # Summator
 
-**Summator** is a simple web app that counts from 1 to a user-specified number, featuring custom CSS for a clean design.
+**Summator** is a simple web app that counts from 1 to a user-specified number, with custom CSS for a clean design.
 
 ## How to Use
 
-1. Clone the repo:
+- Access the app [here](https://summator.vercel.app/)
+- Or clone the repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Summator.git
    ```
-2. Open `index.html` in a browser.
+   Open `index.html` in a browser.
 
 ## Tech Used
 

@@ -15,3 +15,5 @@
 - HTML
 - CSS
 - JavaScript
+
+![](./sum.gif)
